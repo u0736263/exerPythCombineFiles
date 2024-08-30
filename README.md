@@ -63,7 +63,7 @@ The HL7 v3 specification exists, but it's not widely adopted. (Complexity is a b
 
 ## Fork & Clone this repository
 
-* We did this in a previous assignment. Instructions are here: https://github.com/cmcntsh/exerGitPractice
+* We did this in a previous assignment. Instructions are here: https://github.com/cmcntsh/gitHubForClassAssignments
 * This can also be done directly in VSCode
   * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
   * Copy the Clone or Download path for this repository from GitHub.
@@ -73,6 +73,8 @@ The HL7 v3 specification exists, but it's not widely adopted. (Complexity is a b
   * A new folder for the repository with the repository files should be in the folder you selected showing in the Explorer window in VSCode on the left side.
 
 ## Open the repository Jupyter Notebook
+* (2024 update) You can open this notebook using Google Colab. Instructions are found here: https://github.com/cmcntsh/OpenJupyterNBinGoogleColab
+* Older instructions for using Jupyter notebook on your own computer are below.
 * Open Jupyter Notebook on your machine.
 * In the Files tab you should see folders that match the folders on your machine (i.e. Desktop, Documents, Downloads). Navigate to your repository folder by clicking on the folder links. Open the .ipynb file in your repository by clicking on it.
 * Jupyter Notebooks can also be run in VSCode. Once you click on the file in VSCode, it takes a minute to start up. Once it starts you can create cells and run code. (The interface is a little different, though.)
