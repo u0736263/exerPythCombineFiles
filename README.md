@@ -96,6 +96,7 @@ The HL7 v3 specification exists, but it's not widely adopted. (Complexity is a b
 
 ## Push your updated file to your GitHub repository
 
+* (2024 update) Instructions to do this with Google Colab can be found at: https://github.com/cmcntsh/OpenJupyterNBinGoogleColab
 * This can be done in VSCode.
   * In VSCode click on the Source Control button.
   * You should see the files that had changes. (Mine has the original file which shows an M next to it and a new file which says checkpoint in the name. You really only need to push the original file, but if you push both it shouldn't hurt anything.)
